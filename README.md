@@ -18,4 +18,9 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Daniyalahmad07&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 📊 GitHub Contributions Graph  
+
+[![Daniyal's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Daniyalahmad07&theme=github-dark)](https://github.com/Daniyalahmad07)
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
