@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi there, I'm Daniyal 👋<br><br>🚀 **Full-Stack Developer in the making** | 🌱 Always learning, always building  <br><br>---<br><br>### 💻 About Me  <br>- 🔭 Currently learning **Fullstack Development** with **React, MERN Stack**  <br>- 🌐 Building projects with **HTML, CSS, JavaScript, MongoDB, Express, React, Node.js**  <br>- ☕ Also code in **Java** for problem-solving & backend logic  <br>- 📚 Exploring **Data Structures & Algorithms** to improve problem-solving  <br>- 🎯 Goal: To become a **skilled Full-Stack Engineer** and build impactful web apps  <br><br>---<br><br>### 🛠️ Tech Stack<br>**Frontend:**  <br>- HTML • CSS • JavaScript • React.js  <br><br>**Backend:**  <br>- Node.js • Express.js • Java  <br><br>**Database:**  <br>- MongoDB  <br><br>**Tools & Others:**  <br>- Git • GitHub • VS Code • Postman  <br><br>---<br><br>### 🌟 Fun Fact  <br>> "Every bug I fix takes me one step closer to being a better developer." 
+# Hi, I'm Daniyal Ahmad👋<br><br>💻 Full-Stack Developer in Training | 🌱 MERN & React | ☕ Java Enthusiast  <br><br>---<br><br>### Tech Stack  <br>- **Frontend:** HTML, CSS, JavaScript, React  <br>- **Backend:** Node.js, Express, Java  <br>- **Database:** MongoDB  <br><br>
 
 
 ## 🌐 Socials:
