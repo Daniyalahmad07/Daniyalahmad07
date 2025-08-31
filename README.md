@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi, I'm Daniyal Ahmad👋<br><br>💻 Full-Stack Developer in Training | 🌱 MERN & React | ☕ Java Enthusiast  <br><br><br><br>
+# Hi, I'm Daniyal Ahmad👋<br><br>💻 Full-Stack Developer in Training | 🌱 MERN & React | ☕ Java Enthusiast  <br><br>
 
 ![Tired Now](https://github.com/user-attachments/assets/84328891-5850-434c-98c9-5f0f889bff31)
 
