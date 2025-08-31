@@ -1,6 +1,7 @@
 # 💫 About Me:
 # Hi, I'm Daniyal Ahmad👋<br><br>💻 Full-Stack Developer in Training | 🌱 MERN & React | ☕ Java Enthusiast  <br><br><br><br>
 
+![Tired Now](https://github.com/user-attachments/assets/84328891-5850-434c-98c9-5f0f889bff31)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/hey4hmad) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/daniyal-ahmad-9b815b264) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/ahmaddaniyal64/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmaddaniyal64@gmail.com) 
