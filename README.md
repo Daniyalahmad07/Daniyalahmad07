@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi, I'm Daniyal Ahmad👋<br><br>💻 Full-Stack Developer in Training | 🌱 MERN & React | ☕ Java Enthusiast  <br><br>---<br><br>### Tech Stack  <br>- **Frontend:** HTML, CSS, JavaScript, React  <br>- **Backend:** Node.js, Express, Java  <br>- **Database:** MongoDB  <br><br>
+# Hi, I'm Daniyal Ahmad👋<br><br>💻 Full-Stack Developer in Training | 🌱 MERN & React | ☕ Java Enthusiast  <br><br><br><br>
 
 
 ## 🌐 Socials:
