@@ -1,5 +1,12 @@
-# 💫 About Me:
-# Hi, I'm Daniyal Ahmad👋<br><br>💻 Full-Stack Developer in Training | 🌱 MERN & React | ☕ Java Enthusiast  <br><br>
+# Hi, I'm Daniyal Ahmad 👋
+
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D8FF&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=💻+Full-Stack+Developer+in+Training+|+🌱+MERN+&+React+|+☕+Java+Enthusiast)](https://git.io/typing-svg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Daniyalahmad07&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+
+</div>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/84328891-5850-434c-98c9-5f0f889bff31" alt="Tired Now" width="100%" />
