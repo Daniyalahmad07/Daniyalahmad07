@@ -2,11 +2,12 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D8FF&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=💻+Full-Stack+Developer+in+Training;🤖+Ctrl+%2B+C+and+Ctrl+%2B+V+specialist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D8FF&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=💻+Full-Stack+Developer+in+Training;🐒+Writing+code+that+future-me+won’t+understand)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Daniyalahmad07&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
 </div>
+
 
 
 
